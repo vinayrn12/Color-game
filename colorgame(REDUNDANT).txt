@@ -1,0 +1,35 @@
+// easybtn.addEventListener("click", function(){
+// 	hardbtn.classList.remove("selected");
+// 	easybtn.classList.add("selected");
+// 	numsquares = 3;
+// 	colors = generaterandomcolors(numsquares);
+// 	pickedcolor = pickcolor();
+// 	pickedcolordisplay.textContent = pickedcolor;
+// 	for(var i=0; i<squares.length; i++)
+// 	{
+// 		if(colors[i])
+// 			squares[i].style.backgroundColor = colors[i];
+// 		else
+// 			squares[i].style.display = "none";
+// 	}
+// 	h1.style.backgroundColor = "steelblue";
+// 	messagedisplay.textContent = "";
+// });
+
+// hardbtn.addEventListener("click", function(){
+// 	easybtn.classList.remove("selected");
+// 	hardbtn.classList.add("selected");
+// 	numsquares = 6;
+// 	colors = generaterandomcolors(numsquares);
+// 	pickedcolor = pickcolor();
+// 	pickedcolordisplay.textContent = pickedcolor;
+// 	for(var i=0; i<squares.length; i++)
+// 	{
+// 			squares[i].style.backgroundColor = colors[i];
+// 			squares[i].style.display = "block";
+// 	}
+// 	h1.style.backgroundColor = "steelblue";
+// 	messagedisplay.textContent = "";
+// });
+
+The above code was reduced in the original javascript code to avoid redundancy and organise the code more efficiently
